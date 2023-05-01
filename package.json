@@ -1,0 +1,27 @@
+{
+  "name": "backend-nodejs",
+  "version": "1.0.0",
+  "description": "Learn NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trungnguyen1311/learn-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Trung Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trungnguyen1311/learn-nodejs/issues"
+  },
+  "homepage": "https://github.com/trungnguyen1311/learn-nodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
